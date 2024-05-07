@@ -1,1 +1,2 @@
 # Canine-Breed-Identifier
+The Canine Breed Identifier is a project meticulously crafted to provide precise identification and classification of dog breeds through the utilization of Tensorflow’s advanced image recognition technology. Its primary objective is to streamline the dog breed identification process. While the project is functional, it is acknowledged that ongoing modifications and enhancements are underway to refine its performance further.
